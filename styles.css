@@ -17,6 +17,10 @@ body {
     overflow-x:hidden;
 }
 
+.wrapper {
+    overflow-x:hidden;
+}
+
 header {
     display: flex;
     justify-content: space-between;
